@@ -1,13 +1,13 @@
-# Fixed-Deposit-Management-System
+# Fixed-Deposit-Management-System 💰🏦
 
 A comprehensive PHP-based Fixed Deposit Management System that allows users to manage and calculate fixed deposits with different banks such as SBI, Saraswat Bank, Yes Bank, and BOI.
 
 ## Features
-- Manage multiple fixed deposits
-- Calculate interest for different banks
-- Display maturity dates
-- Alert for FD maturity
-- User authentication
+- 📊 Manage multiple fixed deposits
+- 💸 Calculate interest for different banks
+- 📅 Display maturity dates
+- ⏰ Alert for FD maturity
+- 🔒 User authentication
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ A comprehensive PHP-based Fixed Deposit Management System that allows users to m
 4. **Maturity Alerts:**
     - The system will check for FDs maturing today and show alerts with details including name, date, and FD ID.
 
-### Supported Banks and Logic
+### Supported Banks and Logic 🏦
 - **SBI (State Bank of India)**
 - **Saraswat Bank**
 - **Yes Bank**
